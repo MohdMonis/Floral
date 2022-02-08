@@ -3,31 +3,31 @@
 @font-face {
     font-family: "voyage";
     font-weight: 100;
-    src: url(./fonts/Voyage-Regular.ttf);
+    src: url(./fonts/Voyage-Regular.woff2);
 }
 
 @font-face {
     font-family: "voyage";
     font-weight: 900;
-    src: url(./fonts/Voyage-Bold.ttf);
+    src: url(./fonts/Voyage-Bold.woff2);
 }
 
 @font-face {
     font-family: "Riesling";
     font-weight: 100;
-    src: url(./fonts/riesling.ttf);
+    src: url(./fonts/Riesling.woff2);
 }
 
 @font-face {
     font-family: "Bonheur Royale";
     font-weight: 100;
-    src: url(./fonts/BonheurRoyale-Regular.ttf);
+    src: url(./fonts/BonheurRoyale-Regular.woff2);
 }
 
 @font-face {
     font-family: "montserrat";
     font-weight: 100;
-    src: url(./fonts/Montserrat-Regular.otf);
+    src: url(./fonts/Montserrat-Regular.woff2);
 }
 
 
